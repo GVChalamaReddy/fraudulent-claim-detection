@@ -1,5 +1,5 @@
 # fraudulent-claim-detection
-Problem Statement: - Global Insure (an insurance company) processes thousands of claims annually, with a significant percentage being fraudulent, leading to financial losses. The current manual fraud detection process is inefficient, often detecting fraud too late. The company seeks to improve fraud detection by using data-driven insights to classify claims as fraudulent or legitimate early in the approval process, minimizing financial losses and optimizing claims handling.
+**Problem Statement:** Global Insure (an insurance company) processes thousands of claims annually, with a significant percentage being fraudulent, leading to financial losses. The current manual fraud detection process is inefficient, often detecting fraud too late. The company seeks to improve fraud detection by using data-driven insights to classify claims as fraudulent or legitimate early in the approval process, minimizing financial losses and optimizing claims handling.
 
 ## Table of Contents
 * [General Info](#general-information)
